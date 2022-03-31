@@ -90,6 +90,12 @@ header .navegador li a{
     font-weight: 500;
     letter-spacing: 1px;
     border-radius: 40px;
+    transition: 0.5s;
+
+}
+.contenedor .textBx a:hover{
+    background: #e51e7a;
+    transform: translateY(8px);
 }
 
 
